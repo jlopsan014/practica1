@@ -36,3 +36,9 @@ php -S localhost:8080
 ```
 
 4. Abre `http://localhost:8080/registro.html` para probar el formulario de registro o `http://localhost:8000/agenda.html` para abrir el formulario de contactos.
+
+## Autoría
+Jaime Lopez - 2º DAW - IES Alixar
+
+## Licencia
+Este proyecto se distribuye bajo la licencia MIT. Ver [LICENSE](LICENSE).
