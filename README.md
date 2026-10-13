@@ -8,6 +8,7 @@ Pequeña colección de ejercicios de Desarrollo de Aplicaciones Web para practic
 ## Contenido
 
 - `presentacion.php`: muestra datos mediante variables y concatenación.
+- Consulta la [solucion](imagenes/presentacion.png).
 - `tabla.php`: genera la tabla de multiplicar de un número.
 - `alumnos.php`: recorre un array asociativo, evalúa notas y calcula la media.
 - `registro.html` y `procesar.php`: formulario de registro y validación de los datos recibidos.
