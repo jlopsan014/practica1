@@ -10,9 +10,13 @@ Pequeña colección de ejercicios de Desarrollo de Aplicaciones Web para practic
 - `presentacion.php`: muestra datos mediante variables y concatenación.
 - Consulta la [solucion](imagenes/presentacion.png).
 - `tabla.php`: genera la tabla de multiplicar de un número.
+- Consulta la [solucion](imagenes/tabla.png).
 - `alumnos.php`: recorre un array asociativo, evalúa notas y calcula la media.
+- Consulta la [solucion](imagenes/alumnos.png).
 - `registro.html` y `procesar.php`: formulario de registro y validación de los datos recibidos.
+- Consulta la [solucion](imagenes/registro.png).
 - `agenda.html` y `agenda.php`: formulario y tabla de contactos.
+- - Consulta la [solucion](imagenes/agenda.png).
 
 ## Tecnologías utilizadas
 | Tecnología | Uso |
